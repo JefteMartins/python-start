@@ -5,5 +5,7 @@ def verificaNumero():
     num1 = int(num1)
     num2 = int(num2)
     num3 = int(num3)
-    print(num1,num2,num3)
-verificaNumero()
+    if num1 + num2 == num3 or num1 == num2 - num3 or num1 * num2 == num3:
+        return
+    return
+print(verificaNumero())
