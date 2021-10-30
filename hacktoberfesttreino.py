@@ -13,5 +13,5 @@ def verificaNumero():
         return
     print("Não passou")
     return
-print("teste teste")
 print(verificaNumero())
+print("fim do programa")
