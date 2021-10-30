@@ -1,7 +1,6 @@
-
-
-
-
+#   vai ai um codigo pra ver se 2 dos 3 numeros
+#   somados da igual ao 3° que restou
+#   bem facin é tóis
 def verificaNumero():
     num1 = input("Digite o primeiro numero: ")
     num2 = input("Digite o segundo numero: ")
