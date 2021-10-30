@@ -6,6 +6,8 @@ def verificaNumero():
     num2 = int(num2)
     num3 = int(num3)
     if num1 + num2 == num3 or num1 == num2 - num3 or num1 * num2 == num3:
+        print("Passou")
         return
+    print("Não passou")
     return
 print(verificaNumero())
