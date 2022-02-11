@@ -1,4 +1,4 @@
 # **Python**
 
-Vou estar adicionando alguma questões da prática de python do começo da cadeira de estrutura de dados
+Alguns códigos de python BEM SIMPLES que eu fiz por algum motivo simples
 
