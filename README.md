@@ -1,4 +1,4 @@
 # **Python**
 
-Alguns códigos de python BEM SIMPLES que eu fiz por algum motivo simples
+Estudos de python durante minha graduação
 
