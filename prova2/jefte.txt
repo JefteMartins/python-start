@@ -1,0 +1,36 @@
+começo dizendo que não consegui moldar meu codigo para leitura e armazenamento de dados utilizando arquivos .txt, então todo ele se baseia em vetores e armazenamento no proprio codigo
+
+-Comecei meu meu codigo printando o menu
+
+-criei classes para a biblioteca, aluno e professores
+
+-cada classe foi feita para que os metodos fossem chamados dentro do programa que estava sendo construido
+
+-fiz listas para guaradar nomes e matriculas dos livros, professores e alunos
+
+-alem delas, fiz listas de pendencia para limitar a quantidade de alugueis, porem, professores tambem só podiam alugar 1 vez por falta de tempo.
+
+-o codigo foi feito dentro de um loop while para poder rodar enquanto quisesse continuar dentgro do mesmo
+
+-a opção 0 foi feita com vetores e usando metodos para armazenar as informações nos vetores
+
+- a opção 1 foi feita da mesma forma que a 0, porém com a diferença que se tratava de 2 classes
+
+- a opção 2 foi feita com um simples print de lista
+
+- a opção 3 foi a mais complicada, uma vez que teria que tirar itens de vetores, manter sua matricula e fazer algo para identificar que tal livero ja estava alugado, caso estivesse.
+
+- uma vez que o aluno ou professor foi checado na opção 3, em seguida foi visto se ele tinha pendencias ou nao. Ao passar por essa parte, o mesmo estava apto a alugar um livro
+
+- a parte 4 foi feita checando se havia pendencias utilizando check na lista
+
+- em seguida ele selecionava a matricula do livro e o mesmo retornava a lista
+
+- a parte 9 funcionou somente com um break
+
+
+******************************BUGS**********************************
+
+o programa conta com um grande problema que surgiu no fim da prova.
+por problema de identação, possivelmente, que não consegui consertar, as vezes tem que escolher mais de 1 vez a opção que queremos.
+Então digo de antemão que todas as opções estap funcionando, mas se você selecionar alguma e pedir pra selecionar de novo, peço que repita o processo ate que o comando esperado apareça
